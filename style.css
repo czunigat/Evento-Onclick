@@ -1,0 +1,72 @@
+.barra {
+    width: 100%;
+    height: auto;
+    background-color: grey;
+    color: aliceblue;
+    display:flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buscarmascotas {
+    height: 30px;
+    width: 500px;
+}
+
+#iniciar {
+    height: 30px;
+    width: 15%;
+    margin-right: 20px;
+    background-color:rgb(6, 140, 250) ;
+    color:aliceblue; 
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); 
+}
+
+#petlopedia {
+    margin-left: 20px;
+} 
+
+.contenido1 {
+    width: 60%;
+    height: auto;
+    border: 1px solid black; 
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.contenido2 {
+    width: 60%;
+    height: auto;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.definida {
+    border: 1px solid black;
+    padding: 10px;
+    width: 33% ;
+    height: auto;
+    position: relative;
+    left: 65%;
+    bottom: 502px;
+}
+
+#añadir {
+    background-color: green;
+    color: whitesmoke;
+    width: 200px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); 
+}
+
+#likeg {
+    background-color: rgb(247, 247, 208);
+    border: 1px solid rgb(245, 245, 215); 
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); 
+}
+
+#likep {
+    background-color: rgb(247, 247, 208);
+    border: 1px solid rgb(245, 245, 215); 
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); 
+}
